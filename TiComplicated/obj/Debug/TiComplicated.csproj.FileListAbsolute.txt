@@ -1,0 +1,7 @@
+C:\Users\Vonch\source\repos\TiComplicated\TiComplicated\bin\Debug\TiComplicated.exe.config
+C:\Users\Vonch\source\repos\TiComplicated\TiComplicated\bin\Debug\TiComplicated.exe
+C:\Users\Vonch\source\repos\TiComplicated\TiComplicated\bin\Debug\TiComplicated.pdb
+C:\Users\Vonch\source\repos\TiComplicated\TiComplicated\obj\Debug\TiComplicated.csproj.CoreCompileInputs.cache
+C:\Users\Vonch\source\repos\TiComplicated\TiComplicated\obj\Debug\TiComplicated.exe
+C:\Users\Vonch\source\repos\TiComplicated\TiComplicated\obj\Debug\TiComplicated.pdb
+C:\Users\Vonch\source\repos\TiComplicated\TiComplicated\obj\Debug\TiComplicated.csproj.AssemblyReference.cache
