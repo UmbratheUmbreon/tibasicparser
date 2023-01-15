@@ -5,3 +5,6 @@ C:\Users\Vonch\source\repos\TiComplicated\TiComplicated\obj\Debug\TiComplicated.
 C:\Users\Vonch\source\repos\TiComplicated\TiComplicated\obj\Debug\TiComplicated.exe
 C:\Users\Vonch\source\repos\TiComplicated\TiComplicated\obj\Debug\TiComplicated.pdb
 C:\Users\Vonch\source\repos\TiComplicated\TiComplicated\obj\Debug\TiComplicated.csproj.AssemblyReference.cache
+C:\Users\Vonch\source\repos\TiComplicated\TiComplicated\obj\Debug\TiComplicated.Interface.resources
+C:\Users\Vonch\source\repos\TiComplicated\TiComplicated\obj\Debug\TiComplicated.csproj.GenerateResource.cache
+C:\Users\Vonch\source\repos\TiComplicated\TiComplicated\bin\Debug\HelloWorld.ti
